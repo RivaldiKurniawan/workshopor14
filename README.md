@@ -1,0 +1,3 @@
+Nama = Dicky Rivaldi Kurniawan
+Divisi = Programming
+Sub Divisi = web programming
